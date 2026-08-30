@@ -1,220 +1,336 @@
-# Ankit Paswan
+<div align="center">
 
-### Full Stack Developer · MERN · Next.js · Backend Systems
+# 👋 Hey, I'm Ankit Paswan
 
-I build **production-ready web applications** with a focus on scalable backend architecture, clean interfaces, real-time systems, and reliable business workflows.
+### `Full Stack Developer` • `MERN Stack` • `Next.js` • `Backend Engineering`
 
-Currently working as a **Software Developer**, building full-stack applications with React, Next.js, Node.js, Express, MongoDB, and Redis.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;MERN+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real-world+products" />
 
-<br />
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/ankit-paswan-263a66210/) · [Portfolio](https://ankitportfolio-qcrf.onrender.com/) · [Email](mailto:ankitpaswan192@gmail.com)
+<a href="https://ankitportfolio-qcrf.onrender.com/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/ankit-paswan-263a66210/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ankitpaswan192@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AnkitPaswan&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## What I Build
+## ⚡ About Me
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  SaaS & ERP Systems        Real-time Applications       │
-│  REST APIs                Authentication & RBAC         │
-│  Payment Integrations     Dashboards & Admin Panels     │
-│  Web3 Applications        Scalable Backend Services     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+```javascript
+const ankit = {
+    role: "Full Stack Developer",
+    experience: "Software Developer",
+    stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+    architecture: ["REST APIs", "RBAC", "Real-time Systems", "Multi-tenant"],
+    databases: ["MongoDB", "Redis"],
+    integrations: ["Razorpay", "Stripe"],
+    interests: ["Backend Engineering", "Scalable Systems", "Web3"],
+    approach: "Build → Ship → Monitor → Improve"
+};
 ```
 
-I enjoy taking an idea from **architecture → development → deployment → production**, rather than working only on isolated frontend features.
+I build **real-world, production-focused applications** — from multi-tenant ERP platforms and HRMS systems to on-demand service platforms and Web3 applications.
+
+My focus is not just writing code, but understanding the complete system:
+
+**Architecture → APIs → Database → Frontend → Integrations → Deployment → Production**
 
 ---
 
-## Tech Stack
+## 🧠 What I Do
 
-**Languages**
+<table>
+<tr>
+<td width="50%">
 
-`JavaScript` `TypeScript` `HTML` `CSS`
+### 🏗️ Full Stack Development
 
-**Frontend**
+Building complete applications using modern JavaScript technologies with reusable frontend components and scalable backend services.
 
-`React.js` `Next.js` `Redux Toolkit` `Tailwind CSS`
+</td>
+<td width="50%">
 
-**Backend**
+### ⚙️ Backend Engineering
 
-`Node.js` `Express.js` `REST APIs` `Socket.IO` `JWT`
+Designing REST APIs, authentication, authorization, database models, business logic and production-ready backend architecture.
 
-**Database**
+</td>
+</tr>
 
-`MongoDB` `Mongoose` `Redis`
+<tr>
+<td width="50%">
 
-**Integrations**
+### ⚡ Real-time Systems
 
-`Razorpay` `Stripe` `Multer`
+Working with Socket.IO for real-time communication, tracking, notifications and interactive application features.
 
-**Tools & Deployment**
+</td>
+<td width="50%">
 
-`Git` `GitHub` `Postman` `CI/CD` `PM2` `Vercel` `Render`
+### 🚀 Production & Deployment
 
----
+Working with Git/GitHub, CI/CD, PM2 and server environments to deploy, debug and maintain applications.
 
-## Selected Work
-
-### TTFIXON — On-Demand Home Services
-
-A full-stack home-services platform connecting customers with service professionals.
-
-**Built with:** Next.js · Node.js · Express · MongoDB · Redux Toolkit · Socket.IO
-
-* Real-time booking & job tracking
-* OTP-based verification
-* Wallet & Razorpay payments
-* Geolocation-based service zones
-* Dynamic pricing & discounts
-* Provider payouts
-* Analytics & multi-portal architecture
-
-**→ Live Project**
+</td>
+</tr>
+</table>
 
 ---
 
-### TTPLINX — Construction Management ERP
+# 🛠️ Tech Arsenal
 
-A multi-tenant ERP platform designed to centralize construction operations.
+<div align="center">
 
-**Built with:** Full-stack JavaScript architecture
+### Frontend
 
-* Project execution & BOQ management
-* Procurement, tenders & RFQs
-* Purchase orders & inventory
-* Workforce & attendance
-* Payroll & invoicing
-* Role-based dashboards
-* Client, vendor & subcontractor portals
-* Quality audits & HSE workflows
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
 
-**→ Live Project**
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`REST APIs` · `JWT` · `Socket.IO` · `Razorpay` · `Stripe` · `Mongoose` · `CI/CD`
+
+</div>
 
 ---
 
-### Dreamviewer360 — HRMS / ERP
+# 🚀 Featured Projects
 
-A workforce management platform built for multi-organization operations.
+## 🏠 TTFIXON
 
-**Core systems:**
+### On-Demand Home Services Platform
+
+A full-stack platform connecting customers with verified service professionals.
+
+**Core Engineering**
+
+```text
+Customer
+   ↓
+Service Discovery
+   ↓
+Booking
+   ↓
+Real-time Job Tracking
+   ↓
+Payment / Wallet
+   ↓
+Professional Payout
+   ↓
+Analytics
+```
+
+**Highlights**
+
+* 🔐 OTP verification
+* 📍 Geolocation-based service zones
+* ⚡ Real-time booking & job tracking
+* 💳 Razorpay payment integration
+* 💰 Wallet & provider payouts
+* 🎯 Dynamic pricing & discounts
+* 📊 Analytics
+* 👥 Customer / Professional / Admin portals
+
+**Stack:** `Next.js` `Node.js` `Express` `MongoDB` `Redux Toolkit` `Socket.IO`
+
+---
+
+## 🏗️ TTPLINX
+
+### Construction Management ERP
+
+A multi-tenant ERP platform built to centralize construction operations.
+
+**Modules include**
+
+`BOQ` · `Tenders` · `RFQs` · `Purchase Orders` · `Inventory`
+`Workforce` · `Attendance` · `Payroll` · `Approvals` · `Invoicing`
+`Quality Audits` · `HSE Compliance` · `Client Portal` · `Vendor Portal`
+
+The platform provides dedicated workflows and role-based dashboards for administrators, employees, clients, vendors and subcontractors.
+
+---
+
+## 👥 Dreamviewer360
+
+### HRMS / Workforce Management Platform
+
+A multi-organization HRMS system designed around workforce operations.
+
+**Key Systems**
 
 * Employee onboarding
 * Role-based access control
 * GPS / face / biometric attendance
-* Leave & overtime management
-* Automated payroll & salary slips
-* Real-time chat & notifications
-* Calendar reminders
+* Leave & overtime workflows
+* Automated payroll
+* Salary slips
+* Real-time chat
+* Notifications & reminders
 * File management
-* Department & project-wise reporting
-
-**→ Live Project**
+* Project / department reporting
 
 ---
 
-### NeoTreasure — Web3 / NFT Platform
+## 🪙 NeoTreasure
 
-A MERN + Web3 application combining NFT marketplace functionality with wallet and real-time systems.
+### MERN + Web3 / NFT Platform
 
-**Built with:** React · Node.js · MongoDB · Ethers.js · Solidity · IPFS · Socket.IO
+A Web3 platform combining NFT marketplace functionality with wallet systems and real-time applications.
+
+**Built with**
+
+`React` · `Node.js` · `MongoDB` · `Ethers.js` · `Solidity` · `IPFS` · `Socket.IO`
+
+**Features**
 
 * NFT minting & trading
 * USDT wallet integration
 * Referral rewards
 * Reserve trading
 * Real-time games
-* Role-based admin management
-
-**→ Live Project**
+* Role-based administration
 
 ---
 
-## Engineering Focus
+# 💼 Professional Journey
 
 ```text
-Frontend Architecture
-        ↓
-Reusable Components
-        ↓
-RESTful APIs
-        ↓
-Authentication & Authorization
-        ↓
-Database Design
-        ↓
-Caching & Real-time Systems
-        ↓
-Deployment & Production
+2021
+ │
+ ├── SDE Intern
+ │   JugaadHai
+ │
+2024
+ │
+ ├── Web Developer Intern
+ │   Apana Time Tech Solutions
+ │
+2025
+ │
+ ├── Software Developer
+ │   Dream Viewer Infotech
+ │
+2026
+ │
+ └── Building & shipping production systems 🚀
 ```
 
-I particularly enjoy working on the parts of an application where **frontend, backend, database, and infrastructure meet**.
+### 🏆 Recognition
+
+**Employee of the Month — May 2026**
+
+Recognized for outstanding performance, dedication and valuable contributions to the team.
+
+**🥇 1st Position — College Hackathon**
 
 ---
 
-## Experience
+# 📊 GitHub Analytics
 
-**Software Developer — Dream Viewer Infotech**
-`Jan 2025 – Present`
+<div align="center">
 
-Building and maintaining production full-stack applications using the MERN ecosystem, designing REST APIs, managing MongoDB systems, creating responsive interfaces, and handling deployment and production maintenance.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkitPaswan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-**Web Developer Intern — Apana Time Tech Solutions**
-`Aug 2024 – Jan 2025`
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitPaswan&layout=compact&hide_border=true&langs_count=8" />
 
-Worked on responsive web applications, API integration, React components, and frontend performance.
+</div>
 
-**SDE Intern — JugaadHai**
-`Dec 2021 – Feb 2022`
+<br/>
 
-Worked on production-oriented development, API consumption, sprint-based implementation, debugging, and maintainable code.
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=AnkitPaswan&hide_border=true" />
 
-## Recognition
-
-🏆 **Employee of the Month — May 2026**
-
-Recognized for outstanding performance, dedication, and contributions to the team.
-
-🏆 **1st Position — College Hackathon**
+</div>
 
 ---
 
-## Beyond Code
+# 📈 Contribution Activity
 
-I believe good software is not just about writing code.
+<div align="center">
 
-It's about:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitPaswan&hide_border=true&area=true" />
 
-> **Understanding the problem → designing the system → building it well → shipping it → improving it.**
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitPaswan&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitPaswan&layout=compact&hide_border=true" height="165" />
-</p>
+</div>
 
 ---
 
-## Let's Connect
+# 🐍 Contribution Snake
 
-If you're interested in **full-stack development, scalable web applications, SaaS products, or interesting engineering problems**, feel free to connect.
+<div align="center">
 
-**Email:** [ankitpaswan192@gmail.com](mailto:ankitpaswan192@gmail.com)
+<img src="https://raw.githubusercontent.com/AnkitPaswan/AnkitPaswan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-**LinkedIn:** Add your LinkedIn URL
-
-**Portfolio:** Add your portfolio URL
+</div>
 
 ---
 
-<p align="center">
-  <i>Building systems, solving problems, and shipping products.</i>
-</p>
+# 🎯 Currently
+
+```text
+🔭 Building       → Production-grade full-stack applications
+
+🌱 Exploring      → Scalable backend architecture & system design
+
+⚡ Working with   → React, Next.js, Node.js, MongoDB & Redis
+
+🧩 Interested in  → SaaS, ERP, real-time systems & Web3
+
+🚀 Goal           → Build software that solves real problems
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Have an interesting idea or want to collaborate?
+
+<br/>
+
+<a href="https://ankitportfolio-qcrf.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-ankitportfolio-58A6FF?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/ankit-paswan-263a66210/">
+<img src="https://img.shields.io/badge/LinkedIn-Ankit_Paswan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ankitpaswan192@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ankitpaswan192-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**⭐ If you find something interesting in my work, consider giving it a star.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
