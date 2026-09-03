@@ -1,8 +1,10 @@
 <div align="center">
 
-# ANKIT PASWAN
+# 👋 Hey, I'm ANKIT PASWAN
 
-### Full Stack Developer · MERN · Next.js · Backend Engineering
+### ⁠ Full Stack Developer ⁠ • ⁠ MERN Stack ⁠ • 
+`Nexcolor=58A6FF&center=true&vCenter=true&width=700&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;MERN+%7C+Next.js+%7C+Node.jstrue&width=700&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;MERN+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real-world+products" />
+
 
 Building production-grade web applications, scalable APIs, real-time systems, and business platforms.
 
