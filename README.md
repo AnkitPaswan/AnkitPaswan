@@ -1,21 +1,21 @@
 <div align="center">
 
-# 👋 Hey, I'm ANKIT PASWAN
+# ANKIT PASWAN
 
-### ⁠ Full Stack Developer ⁠ • ⁠ MERN Stack ⁠ • 
-`Nexcolor=58A6FF&center=true&vCenter=true&width=700&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;MERN+%7C+Next.js+%7C+Node.jstrue&width=700&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;MERN+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real-world+products" />
+### Full Stack Developer · MERN · Next.js · Backend Engineering
 
-
-Building production-grade web applications, scalable APIs, real-time systems, and business platforms.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Web+Applications;Designing+Scalable+Backend+Systems;MERN+%7C+Next.js+%7C+Node.js+%7C+MongoDB;REST+APIs+%7C+Redis+%7C+Socket.IO;Turning+Ideas+Into+Real-World+Products" />
 
 <br/>
 
 <a href="https://ankitportfolio-qcrf.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/ankit-paswan-263a66210/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:ankitpaswan192@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
