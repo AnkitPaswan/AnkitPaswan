@@ -2,7 +2,7 @@
 
 # ANKIT PASWAN
 
-### MERN Stack Developer | Next.Js | React.Js | Node.Js | Express.Js | MongoDB
+### MERN Stack Developer | Next.Js | React.Js | Node.Js | Express.Js | MongoDB | CSE’24
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Web+Applications;Designing+Scalable+Backend+Systems;MERN+%7C+Next.js+%7C+Node.js+%7C+MongoDB;REST+APIs+%7C+Redis+%7C+Socket.IO;Turning+Ideas+Into+Real-World+Products" />
 
