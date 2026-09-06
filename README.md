@@ -371,18 +371,6 @@ Achieved first position in a college-level hackathon by developing and presentin
 
 </div>
 
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitPaswan&hide_border=true&area=true" />
-
-</div>
-
----
-
 # Engineering Interests
 
 ```text
